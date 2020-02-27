@@ -1,6 +1,6 @@
 var dan = "I lub you";
-var bob = "Hi My name is bob";
-bob = dan;
+var kyler = "Hi My name is bob";
+kyler = dan;
 var i = 0;
 
 
@@ -16,7 +16,7 @@ if(i == 0){
 
 
 if(i < 5){
-    console.log(bob)
+    console.log(kyler)
 }else{
     console.log("my name is tyfanie")
 }
