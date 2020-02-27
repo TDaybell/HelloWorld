@@ -1,4 +1,4 @@
-var dan = "I lub you";
+var dan = "I lub blue";
 var kyler = "Hi My name is bob";
 kyler = dan;
 var i = 0;
