@@ -1,0 +1,6 @@
+git add --all
+git commit -am "the message you want to send"
+git push
+
+if you changed things on a new computer do 
+git pull

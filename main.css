@@ -1,10 +1,18 @@
 body{
-    background-image: url(Cruiseship.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 h1{
-    color:maroon;
-    background-color:black;
+    color:black;
+    background-color: ;
+    font-size: xx-large;
+}
+h2{
+    color: red;
+    font-size: large;
+}
+ol{
+    Color:black
+    
 }
