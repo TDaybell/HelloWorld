@@ -17,3 +17,15 @@ ol{
     Color:black
     
 }
+a{
+    padding: 10px;
+    color:black;
+    font-size: larger;
+    text-decoration: none;
+    background-color:pink;
+}
+
+a:hover{
+    background-color: blue;
+    color:white;
+}
