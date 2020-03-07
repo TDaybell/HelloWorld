@@ -6,7 +6,7 @@ body{
 
 h1{
     color:black;
-    background-color: ;
+    background-color:none ;
     font-size: xx-large;
 }
 h2{
@@ -18,11 +18,15 @@ ol{
     
 }
 a{
+    display: inline-block;
+    word-wrap: none;
     padding: 10px;
+    overflow: hidden;
     color:black;
     font-size: larger;
     text-decoration: none;
     background-color:pink;
+
 }
 
 a:hover{
